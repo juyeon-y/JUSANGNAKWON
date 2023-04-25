@@ -15,7 +15,20 @@ SSAFY 8기 2학기 특화프로젝트
 
 <br>
 
-## 💻 **프로젝트 기능 설명**
+## 💻 **주상낙원 서비스 화면**
+<span>
+<img width="20%" src="https://user-images.githubusercontent.com/52191425/234167782-3fb844ec-75b7-4ee9-bf6d-c137db077cfa.gif"/>
+<img width="20%" src="https://user-images.githubusercontent.com/52191425/234167823-8c23b0fc-8167-49ca-ab0f-a19e076d7266.gif"/>
+<img width="20%" src="https://user-images.githubusercontent.com/52191425/234167866-9579754d-16c7-4f39-acfd-6869427b7a4c.gif"/>
+<img width="20%" src="https://user-images.githubusercontent.com/52191425/234167904-af8d64eb-e217-4c7e-9ccf-d70ce586d1ea.gif"/>
+<img width="20%" src="https://user-images.githubusercontent.com/52191425/234167944-7c2cb529-a417-40d0-aedf-66c83c44200c.gif"/>
+<img width="20%" src="https://user-images.githubusercontent.com/52191425/234167989-501fd9ca-e269-469c-a643-2e871491c190.gif"/>
+<img width="20%" src="https://user-images.githubusercontent.com/52191425/234168030-0e4dab4e-86d4-4280-bbd6-370482f1f784.gif"/>
+</span>
+
+<br><br>
+
+## ⚡ **프로젝트 기능 설명**
 
 1. **술 추천**
 - 다양한 주종별(와인,맥주,위스키,칵테일,전통주) 술 정보, 인기 순위 제공
